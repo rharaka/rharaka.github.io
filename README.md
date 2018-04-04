@@ -1,16 +1,11 @@
-# rharaka.github.io
-====================
+# My portfolio
 
-## Hello world!
+My name is [Rachid](http://twitter.com)
 
-This is my first try at github!
+* [Bastards Book of Regular Expressions](http://regex.bastardsbook.com/)  - A free ebook on how to use regular expressions for everyday informational purposes
 
-My Github user page is at: 
-https://github.com/rharaka/
+* [Tumblr](http://tumblr.com) - A Tumblr of my New photos
 
-My Github Pages repo can be found at:  
-https://github.com/rharaka/rharaka.github.io/
+Here's video of that performance:
 
-And, soon, you can see my customized homepage at:
-
-http://rharaka.github.io/
+<iframe width="640" height="360" src="//www.youtube.com/embed/dfCd2eQfueY?list=UUw7F4bJbtGwORQwMBxlGb6w" frameborder="0" allowfullscreen></iframe>
